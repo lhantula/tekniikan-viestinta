@@ -1,0 +1,2 @@
+# tekniikan-viestinta
+Esimerkkiprojekti kurssille
